@@ -1,7 +1,7 @@
 # SecretTalk
-Bluetooth Chat with Encrypt end-to-end
+Bluetooth Chat with Encryption End-to-End
 
-This app allows two Android devices to carry out two-way text chat over Bluetooth:
+This app allows two Android devices to carry out two-way text chat over Bluetooth
 * Scan for other Bluetooth devices
 * Query the local Bluetooth adapter for paired Bluetooth devices
 * Establish RFCOMM socket
