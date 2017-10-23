@@ -11,8 +11,8 @@ This app allows two Android devices to carry out two-way text chat over Bluetoot
 * Log Cat from User Interface
 
 
-Guilherme Paulino
-Student of B.Eng. in Telecomm
-The University of Campinas, Brazil
-Open Source Project under the Apache License (Version 2.0)
+Guilherme Paulino\n
+Student of B.Eng. in Telecomm\n
+The University of Campinas, Brazil\n
+Open Source Project under the Apache License (Version 2.0)\n
 October 23rd 2017
